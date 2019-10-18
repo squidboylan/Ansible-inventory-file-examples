@@ -1,0 +1,6 @@
+plugin: "awx.awx.tower"
+host: "http://localhost:8013"
+username: "admin"
+password: "admin"
+inventory_id: 1
+validate_certs: "no"
